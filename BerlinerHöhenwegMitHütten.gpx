@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GPSies http://www.gpsies.com - Berliner H&amp;#246;henweg mit H&amp;#252;tten" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Berliner Höhenweg mit Hütten</name>
+    <link href="http://www.gpsies.com/">
+      <text>Berliner Höhenweg mit Hütten on GPSies.com</text>
+    </link>
+    <time>2016-06-07T15:21:26Z</time>
+  </metadata>
+  <wpt lat="47.12975367" lon="11.79555058">
+    <ele>1901.0000</ele>
+    <name>Gamshütte</name>
+    <sym>Hostel</sym>
+    <type>Hostel</type>
+  </wpt>
+  <wpt lat="47.06750569" lon="11.70207023">
+    <ele>2470.0000</ele>
+    <name>Friesenberghaus</name>
+    <sym>Hostel</sym>
+    <type>Hostel</type>
+  </wpt>
+  <wpt lat="47.04198075" lon="11.68831586">
+    <ele>2388.0000</ele>
+    <name>Olpererhütte</name>
+    <sym>Hostel</sym>
+    <type>Hostel</type>
+  </wpt>
+  <wpt lat="47.05943727" lon="11.94868326">
+    <ele>2177.0000</ele>
+    <name>Kasseler Hütte</name>
+    <sym>Hostel</sym>
+    <type>Hostel</type>
+  </wpt>
+  <wpt lat="47.00096324" lon="11.74741029">
+    <ele>2289.0000</ele>
+    <name>Furtschlaglhaus</name>
+    <sym>Hostel</sym>
+    <type>Hostel</type>
+  </wpt>
+  <wpt lat="47.02451851" lon="11.81264162">
+    <ele>2041.0000</ele>
+    <name>Berliner Hütte</name>
+    <sym>Hostel</sym>
+    <type>Hostel</type>
+  </wpt>
+  <wpt lat="47.04329677" lon="11.88590884">
+    <ele>2226.0000</ele>
+    <name>Greizer Hütte</name>
+    <sym>Hostel</sym>
+    <type>Hostel</type>
+  </wpt>
+  <wpt lat="47.13045440" lon="11.89732432">
+    <ele>2231.0000</ele>
+    <name>Edelhütte</name>
+    <sym>Hostel</sym>
+    <type>Hostel</type>
+  </wpt>
+</gpx>
+
